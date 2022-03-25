@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on java and stuff
-- 🌱 I’m currently learning java and Minecraft Modding
+- 🔭 I’m currently working on web development and stuff
+- 🌱 I’m not currently learning
 - 📫 How to reach me: conansite.net
