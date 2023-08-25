@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web development and stuff
-- 🌱 I’m currently learning Node.js
-- 📫 How to reach me: conansite.net
+- 🔭 I’m currently working on ________
+- 🌱 I’m currently learning Game Engines
+- 📫 How to reach me: email or Discord (conaitus)
+
+- 🏙 live in The Netherlands (🇳🇱)
